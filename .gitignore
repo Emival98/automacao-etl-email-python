@@ -1,0 +1,19 @@
+# Segredos e Credenciais
+.env
+
+# Ambiente Virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+emails/__pycache__/
+
+# Dados gerados e planilhas
+Arquivo/
+*.xlsx
+*.csv
+
+# Configurações de IDE (se houver)
+.vscode/
+.idea/
